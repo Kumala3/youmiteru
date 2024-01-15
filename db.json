@@ -10,7 +10,7 @@
   ],
   "announced_seasons": {
     "name": "typicode"
-  }
+  },
   "recent-released_seasons" : [
     {
         "season_id": 7654765,
@@ -18,5 +18,5 @@
         "season_description": "A long description of season", 
         "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
     },
-  ]
+  ],
 }
