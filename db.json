@@ -1,24 +1,144 @@
 {
   "banners": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  
-  "popular_seasons": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+        "season_id": 17645, 
+        "season_name": "Человек Бензопила",
+        "season_description": "A long description of season Человек Бензопила", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705351909/u7cg3sgnsxvxnjiwuew9.jpg"
+    },
+    {
+        "season_id": 57695, 
+        "season_name": "Атака Титанов",
+        "season_description": "A long description of season Атака Титанов", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705351849/obikety6ds3ylzydsjnp.jpg"
+    },
+    {
+        "season_id": 87235, 
+        "season_name": "Меч Рыцаря",
+        "season_description": "A long description of season Меч Рыцаря", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705351849/wx1x0la9oir91ccuboxo.jpg"
+    },
+    {
+        "season_id": 92455, 
+        "season_name": "Этот Глупый Свин Не Понимает Мечту зайки",
+        "season_description": "A long description of season Этот Глупый Свин Не Понимает Мечту зайки", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705352887/thdaxfqoftmuxduzbdxv.jpg"
+    },
+    {
+        "season_id": 32245, 
+        "season_name": "Римуру Темпест",
+        "season_description": "A long description of season Меч Рыцаря Римуру Темпест", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705352887/j3jlfzccggrobjt5e67l.jpg"
+    }
   ],
 
-  "announced_seasons": {
-    "name": "typicode"
-  },
+  "popular_seasons": [
+    {
+        "season_id": 44345,
+        "season_name": "Мастера Меча Онлайн", 
+        "season_description": "A long description of season Мастера Меча Онлайн", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705353607/seasons-images/rgwliw9aqukww0fndpjk.jpg"
+    },
+    {
+        "season_id": 87345,
+        "season_name": "Моя Геройская Академия", 
+        "season_description": "A long description of season моя геройская академия", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705353607/seasons-images/avcletk6olvlmmjtffqq.jpg"
+    },
+    {
+        "season_id": 94345,
+        "season_name": "Ван Пис", 
+        "season_description": "A long description of season Ван Пис", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705353607/seasons-images/eov8q3skm1emekcrunys.jpg"
+    },
+    {
+        "season_id": 39045,
+        "season_name": "Стальной Алхимик", 
+        "season_description": "A long description of season Стальной Алхимик", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705353607/seasons-images/skq8z0qx9h51puctk7d3.jpg"
+    },
+    {
+        "season_id": 69545,
+        "season_name": "Ванпачмен", 
+        "season_description": "A long description of season Ванпачмен", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705353608/seasons-images/leishyvshiznwvc6ytro.jpg" 
+    },
+    {
+        "season_id": 43345,
+        "season_name": "Токийский Гуль", 
+        "season_description": "A long description of season Токийский Гуль", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705353607/seasons-images/yeojddlbmge0et1fn7u3.jpg" 
+    }
+  ],
+
+  "announced_seasons": [
+    {
+        "season_id": 23345,
+        "season_name": "7 Смертных грехов", 
+        "season_description": "A long description of season", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 87345,
+        "season_name": "7 Смертных грехов", 
+        "season_description": "A long description of season", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 72526,
+        "season_name": "7 Смертных грехов", 
+        "season_description": "A long description of season", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 76345,
+        "season_name": "7 Смертных грехов", 
+        "season_description": "A long description of season", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 10345,
+        "season_name": "7 Смертных грехов", 
+        "season_description": "A long description of season", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 63805,
+        "season_name": "7 Смертных грехов", 
+        "season_description": "A long description of season", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    }
+  ],
 
   "recent-released_seasons" : [
     {
-        "season_id": 7654765,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
+        "season_id": 76545,
+        "season_name": "Магическая битва", 
+        "season_description": "A long description of season Магическая битва", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 43545,
+        "season_name": "Магическая битва", 
+        "season_description": "A long description of season Магическая битва", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 76975,
+        "season_name": "Магическая битва", 
+        "season_description": "A long description of season Магическая битва", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 216545,
+        "season_name": "Магическая битва", 
+        "season_description": "A long description of season Магическая битва", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+    },
+    {
+        "season_id": 426545,
+        "season_name": "Магическая битва", 
+        "season_description": "A long description of season Магическая битва", 
         "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
     }
   ]
