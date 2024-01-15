@@ -74,72 +74,78 @@
   "announced_seasons": [
     {
         "season_id": 23345,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Хантер х Хантер", 
+        "season_description": "A long description of season Хантер х Хантер", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354272/seasons-images/ek4bsipwxjf5rqgupbhl.jpg"
     },
     {
         "season_id": 87345,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Бездомный Бог", 
+        "season_description": "A long description of season Бездомный Бог", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354272/seasons-images/udcxdhvp2e6qyfioh3eh.jpg"
     },
     {
         "season_id": 72526,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Убийца Акаме", 
+        "season_description": "A long description of season Убийца Акаме", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354272/seasons-images/y2r6sjtfcbuq5lauyews.jpg"
     },
     {
         "season_id": 76345,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Моб Психо 100", 
+        "season_description": "A long description of season Моб Психо 100", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354272/seasons-images/vccz71fqfa8kzkd9twlc.jpg"
     },
     {
         "season_id": 10345,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Дневник Будущего", 
+        "season_description": "A long description of season Дневник Будущего", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354272/seasons-images/s06qtquzcy0kzvozmcgj.jpg"
     },
     {
         "season_id": 63805,
-        "season_name": "7 Смертных грехов", 
-        "season_description": "A long description of season", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Класс Убийц", 
+        "season_description": "A long description of season Класс Убийц", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354272/seasons-images/yqdk9uuljmph6mxdmjtp.jpg"
     }
   ],
 
   "recent-released_seasons" : [
     {
         "season_id": 76545,
-        "season_name": "Магическая битва", 
-        "season_description": "A long description of season Магическая битва", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Блич", 
+        "season_description": "A long description of season Магическая битва Блич", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354891/seasons-images/a0z4fg1pcoydwrmzjvcc.png"
     },
     {
         "season_id": 43545,
-        "season_name": "Магическая битва", 
-        "season_description": "A long description of season Магическая битва", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Обещанный Неверленд", 
+        "season_description": "A long description of season Магическая битва Обещанный Неверленд", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354890/seasons-images/ryycimqejm5iwupbket9.jpg"
     },
     {
         "season_id": 76975,
-        "season_name": "Магическая битва", 
-        "season_description": "A long description of season Магическая битва", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Синий Экзорцист", 
+        "season_description": "A long description of season Магическая битва Синий Экзорцист", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354891/seasons-images/jwdr1ius3yj0kjw5japr.jpg"
     },
     {
         "season_id": 216545,
-        "season_name": "Магическая битва", 
-        "season_description": "A long description of season Магическая битва", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Джо Джо", 
+        "season_description": "A long description of season Магическая битва Джо Джо", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354890/seasons-images/kauoh7cofspcllktxzd8.jpg"
     },
     {
         "season_id": 426545,
-        "season_name": "Магическая битва", 
-        "season_description": "A long description of season Магическая битва", 
-        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
+        "season_name": "Ре Зеро", 
+        "season_description": "A long description of season Магическая битва Ре Зеро", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354890/seasons-images/y1ryntuyxtxfzgnu7cjc.jpg"
+    },
+    {
+        "season_id": 560545,
+        "season_name": "Восхождение Героя Щита", 
+        "season_description": "A long description of season Магическая битва Восхождение Героя Щита", 
+        "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705354890/seasons-images/wpjxasmjpdon7rwrx7xk.jpg"
     }
   ]
 }
