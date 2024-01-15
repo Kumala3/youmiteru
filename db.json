@@ -4,19 +4,22 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  
   "popular_seasons": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+
   "announced_seasons": {
     "name": "typicode"
   },
+
   "recent-released_seasons" : [
     {
         "season_id": 7654765,
         "season_name": "7 Смертных грехов", 
         "season_description": "A long description of season", 
         "season_image_url": "https://res.cloudinary.com/dfpgs75hz/image/upload/v1705350173/bnaorozo6c2ckm9v09w5.jpg"
-    },
-  ],
+    }
+  ]
 }
